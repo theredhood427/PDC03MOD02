@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PDC03MOD02.Activity05">
+    <ContentPage.Content>
+        <StackLayout>
+            <ListView x:Name="lst"
+                        ItemsSource="{Binding Employees}"
+                            IsPullToRefreshEnabled="False"
+                                RefreshControlColor="Red">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ImageCell ImageSource="{Binding profileimage}" Text="{Binding DisplayName}" Detail="{Binding Position}" TextColor="Blue" />
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

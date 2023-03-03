@@ -631,3 +631,6 @@ C:\Users\User\source\repos\PDC03MOD02\PDC03MOD02\PDC03MOD02.Android\obj\Debug\13
 C:\Users\User\source\repos\PDC03MOD02\PDC03MOD02\PDC03MOD02.Android\obj\Debug\130\stamp\_GenerateJavaStubs.stamp
 C:\Users\User\source\repos\PDC03MOD02\PDC03MOD02\PDC03MOD02.Android\obj\Debug\130\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\User\source\repos\PDC03MOD02\PDC03MOD02\PDC03MOD02.Android\obj\Debug\130\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\User\source\repos\PDC03MOD02\PDC03MOD02\PDC03MOD02.Android\obj\Debug\130\res\drawable\eric.jpg
+C:\Users\User\source\repos\PDC03MOD02\PDC03MOD02\PDC03MOD02.Android\obj\Debug\130\res\drawable\donkey.jpg
+C:\Users\User\source\repos\PDC03MOD02\PDC03MOD02\PDC03MOD02.Android\obj\Debug\130\res\drawable\shrek.png
